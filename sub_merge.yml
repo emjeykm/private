@@ -12,7 +12,7 @@ ipv6: false
 dns:
   enable: true
   ipv6: false
-  enhanced-mode: redir-host
+  enhanced-mode: fake-ip
   listen: 0.0.0.0:7894
   fallback-filter:
     geoip: false
@@ -38,48 +38,46 @@ experimental:
 
 proxies:
   - {name: default-VMess_WS, server: lond.inbarayeman.xyz, port: 443, type: vmess, uuid: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: lond.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /cyfuvws, headers: {Host: lond.inbarayeman.xyz}}}
-  - {name: lond.inbarayeman.xyz 12, server: lond.inbarayeman.xyz, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
-  - {name: lond.inbarayeman.xyz 94, server: lond.inbarayeman.xyz, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
-  - {name: default-VMess_WS 61, server: ast.ircf.space, port: 443, type: vmess, uuid: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: lond.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /cyfuvws, headers: {Host: lond.inbarayeman.xyz}}}
-  - {name: ast.ircf.space 38, server: ast.ircf.space, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
-  - {name: default-VMess_WS 55, server: mtn.ircf.space, port: 443, type: vmess, uuid: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: lond.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /cyfuvws, headers: {Host: lond.inbarayeman.xyz}}}
-  - {name: mtn.ircf.space 55, server: mtn.ircf.space, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
-  - {name: default-VMess_WS 56, server: mci.ircf.space, port: 443, type: vmess, uuid: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: lond.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /cyfuvws, headers: {Host: lond.inbarayeman.xyz}}}
-  - {name: mci.ircf.space 38, server: mci.ircf.space, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
-  - {name: default-VMess_WS 5, server: miam.inbarayeman.xyz, port: 443, type: vmess, uuid: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: miam.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /heqlvws, headers: {Host: miam.inbarayeman.xyz}}}
-  - {name: miam.inbarayeman.xyz 31, server: miam.inbarayeman.xyz, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
-  - {name: miam.inbarayeman.xyz 20, server: miam.inbarayeman.xyz, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
-  - {name: default-VMess_WS 41, server: ast.ircf.space, port: 443, type: vmess, uuid: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: miam.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /heqlvws, headers: {Host: miam.inbarayeman.xyz}}}
-  - {name: ast.ircf.space 86, server: ast.ircf.space, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
-  - {name: default-VMess_WS 21, server: mtn.ircf.space, port: 443, type: vmess, uuid: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: miam.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /heqlvws, headers: {Host: miam.inbarayeman.xyz}}}
-  - {name: mtn.ircf.space 88, server: mtn.ircf.space, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
-  - {name: default-VMess_WS 47, server: mci.ircf.space, port: 443, type: vmess, uuid: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: miam.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /heqlvws, headers: {Host: miam.inbarayeman.xyz}}}
-  - {name: mci.ircf.space 13, server: mci.ircf.space, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
+  - {name: lond.inbarayeman.xyz 45, server: lond.inbarayeman.xyz, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
+  - {name: lond.inbarayeman.xyz 3, server: lond.inbarayeman.xyz, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
+  - {name: default-VMess_WS 93, server: ast.ircf.space, port: 443, type: vmess, uuid: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: lond.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /cyfuvws, headers: {Host: lond.inbarayeman.xyz}}}
+  - {name: ast.ircf.space 39, server: ast.ircf.space, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
+  - {name: default-VMess_WS 33, server: mtn.ircf.space, port: 443, type: vmess, uuid: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: lond.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /cyfuvws, headers: {Host: lond.inbarayeman.xyz}}}
+  - {name: mtn.ircf.space 58, server: mtn.ircf.space, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
+  - {name: default-VMess_WS 99, server: mci.ircf.space, port: 443, type: vmess, uuid: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: lond.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /cyfuvws, headers: {Host: lond.inbarayeman.xyz}}}
+  - {name: mci.ircf.space 80, server: mci.ircf.space, port: 443, udp: true, type: trojan, password: 50b26c9a-48b3-464d-abe6-b145f331ccd6, sni: , skip-cert-verify: true}
+  - {name: default-VMess_WS 31, server: miam.inbarayeman.xyz, port: 443, type: vmess, uuid: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: miam.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /heqlvws, headers: {Host: miam.inbarayeman.xyz}}}
+  - {name: miam.inbarayeman.xyz 36, server: miam.inbarayeman.xyz, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
+  - {name: miam.inbarayeman.xyz 41, server: miam.inbarayeman.xyz, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
+  - {name: default-VMess_WS 35, server: ast.ircf.space, port: 443, type: vmess, uuid: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: miam.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /heqlvws, headers: {Host: miam.inbarayeman.xyz}}}
+  - {name: ast.ircf.space 99, server: ast.ircf.space, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
+  - {name: default-VMess_WS 15, server: mtn.ircf.space, port: 443, type: vmess, uuid: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: miam.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /heqlvws, headers: {Host: miam.inbarayeman.xyz}}}
+  - {name: mtn.ircf.space 77, server: mtn.ircf.space, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
+  - {name: default-VMess_WS 40, server: mci.ircf.space, port: 443, type: vmess, uuid: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: miam.inbarayeman.xyz, alterId: 0, cipher: auto, tls: 1, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /heqlvws, headers: {Host: miam.inbarayeman.xyz}}}
+  - {name: mci.ircf.space 14, server: mci.ircf.space, port: 443, udp: true, type: trojan, password: b73070cf-e1e0-4ef2-908a-6fcb20930ba0, sni: , skip-cert-verify: true}
 
 proxy-groups:
   - name: sshkit-generator
-    type: url-test
-    url: 'http://www.gstatic.com/generate_204'
-    interval: 300
+    type: select
     proxies:
       - default-VMess_WS
-      - lond.inbarayeman.xyz 12
-      - lond.inbarayeman.xyz 94
-      - default-VMess_WS 61
-      - ast.ircf.space 38
-      - default-VMess_WS 55
-      - mtn.ircf.space 55
-      - default-VMess_WS 56
-      - mci.ircf.space 38
-      - default-VMess_WS 5
-      - miam.inbarayeman.xyz 31
-      - miam.inbarayeman.xyz 20
-      - default-VMess_WS 41
-      - ast.ircf.space 86
-      - default-VMess_WS 21
-      - mtn.ircf.space 88
-      - default-VMess_WS 47
-      - mci.ircf.space 13
+      - lond.inbarayeman.xyz 45
+      - lond.inbarayeman.xyz 3
+      - default-VMess_WS 93
+      - ast.ircf.space 39
+      - default-VMess_WS 33
+      - mtn.ircf.space 58
+      - default-VMess_WS 99
+      - mci.ircf.space 80
+      - default-VMess_WS 31
+      - miam.inbarayeman.xyz 36
+      - miam.inbarayeman.xyz 41
+      - default-VMess_WS 35
+      - ast.ircf.space 99
+      - default-VMess_WS 15
+      - mtn.ircf.space 77
+      - default-VMess_WS 40
+      - mci.ircf.space 14
 
 rules:
  - MATCH,sshkit-generator
