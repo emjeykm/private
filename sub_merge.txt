@@ -14,7 +14,6 @@ trojan://82273293-9536-4330-ac74-325426ae8f15@manch.barayevatan.ml:443?security=
 trojan://82273293-9536-4330-ac74-325426ae8f15@manch.barayevatan.ml:443?security=tls&sni=manch.barayevatan.ml&alpn=h2&fp=chrome&type=grpc&serviceName=jutatrojangrpc&mode=gun#default-Trojan_gRPC
 vless://82273293-9536-4330-ac74-325426ae8f15@80.77.23.194:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=manch.barayevatan.ml&fp=chrome&pbk=MsU9CYMY3G-TxPhXdZcz7nXRlCoNlLN2-2GF7T4ppzE&type=tcp&headerType=none#default-vless_reality_vision
 vless://82273293-9536-4330-ac74-325426ae8f15@80.77.23.194:443?encryption=none&security=reality&sni=manch.barayevatan.ml&fp=chrome&pbk=MsU9CYMY3G-TxPhXdZcz7nXRlCoNlLN2-2GF7T4ppzE&type=grpc&serviceName=grpc&mode=gun#default-vless_reality_grpc
-vless://71be0f81-5435-4e02-f262-ead4e46270eb@195.170.172.108:20302?encryption=none&flow=xtls-rprx-
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRyb250b24tVm1lc3MiLA0KICAiYWRkIjogImRyb24uc25hcGNoYXR0LmJpeiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3ZTdiMTljNS1hNmFlLTQ3MTAtOGU5NS0xODcyZTZlNmQ1MjUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9kcm9uIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
 
