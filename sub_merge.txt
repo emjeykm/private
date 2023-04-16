@@ -1,3 +1,12 @@
+vless://229d29cb-4e1d-4e9f-8c04-c9538b1b3538@falk.inbarayeman.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=falk.inbarayeman.xyz&fp=chrome&type=tcp&headerType=none&host=falk.inbarayeman.xyz#default-VLESS_TCP%2FTLS_Vision
+vless://229d29cb-4e1d-4e9f-8c04-c9538b1b3538@falk.inbarayeman.xyz:443?encryption=none&security=tls&sni=falk.inbarayeman.xyz&fp=chrome&type=ws&host=falk.inbarayeman.xyz&path=%2Fytlaws#default-VLESS_WS
+vless://229d29cb-4e1d-4e9f-8c04-c9538b1b3538@falk.inbarayeman.xyz:443?encryption=none&security=tls&sni=falk.inbarayeman.xyz&alpn=h2&fp=chrome&type=grpc&serviceName=ytlagrpc&mode=gun#default-vless_grpc
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImRlZmF1bHQtVk1lc3NfV1MiLA0KICAiYWRkIjogImZhbGsuaW5iYXJheWVtYW4ueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjIyOWQyOWNiLTRlMWQtNGU5Zi04YzA0LWM5NTM4YjFiMzUzOCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZmFsay5pbmJhcmF5ZW1hbi54eXoiLA0KICAicGF0aCI6ICIveXRsYXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJmYWxrLmluYmFyYXllbWFuLnh5eiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
+trojan://229d29cb-4e1d-4e9f-8c04-c9538b1b3538@falk.inbarayeman.xyz:443?security=tls&sni=falk.inbarayeman.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#falk.inbarayeman.xyz_Trojan
+trojan://229d29cb-4e1d-4e9f-8c04-c9538b1b3538@falk.inbarayeman.xyz:443?security=tls&sni=falk.inbarayeman.xyz&alpn=h2&fp=chrome&type=grpc&serviceName=ytlatrojangrpc&mode=gun#default-Trojan_gRPC
+vless://229d29cb-4e1d-4e9f-8c04-c9538b1b3538@91.107.179.39:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=falk.inbarayeman.xyz&fp=chrome&pbk=Bqw6zVqWscM3DQxp7kCbTt3gs2yvO_0wrvxPafllmGQ&type=tcp&headerType=none#default-vless_reality_vision
+vless://229d29cb-4e1d-4e9f-8c04-c9538b1b3538@91.107.179.39:443?encryption=none&security=reality&sni=falk.inbarayeman.xyz&fp=chrome&pbk=Bqw6zVqWscM3DQxp7kCbTt3gs2yvO_0wrvxPafllmGQ&type=grpc&serviceName=grpc&mode=gun#default-vless_reality_grpc
+
 vless://fd3677a5-b5ba-4991-b346-b5887b879d84@lond.inbarayeman.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lond.inbarayeman.xyz&fp=chrome&type=tcp&headerType=none&host=lond.inbarayeman.xyz#default-VLESS_TCP%2FTLS_Vision
 vless://fd3677a5-b5ba-4991-b346-b5887b879d84@lond.inbarayeman.xyz:443?encryption=none&security=tls&sni=lond.inbarayeman.xyz&fp=chrome&type=ws&host=lond.inbarayeman.xyz&path=%2Ftukows#default-VLESS_WS
 vless://fd3677a5-b5ba-4991-b346-b5887b879d84@lond.inbarayeman.xyz:443?encryption=none&security=tls&sni=lond.inbarayeman.xyz&alpn=h2&fp=chrome&type=grpc&serviceName=tukogrpc&mode=gun#default-vless_grpc
@@ -6,6 +15,7 @@ trojan://fd3677a5-b5ba-4991-b346-b5887b879d84@lond.inbarayeman.xyz:443?security=
 trojan://fd3677a5-b5ba-4991-b346-b5887b879d84@lond.inbarayeman.xyz:443?security=tls&sni=lond.inbarayeman.xyz&alpn=h2&fp=chrome&type=grpc&serviceName=tukotrojangrpc&mode=gun#default-Trojan_gRPC
 vless://fd3677a5-b5ba-4991-b346-b5887b879d84@136.244.69.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lond.inbarayeman.xyz&fp=chrome&pbk=vHdKrjLb7iXZXmSxgd4PVrdsRCgYFSlzeqHXoKQiVgY&type=tcp&headerType=none#default-vless_reality_vision
 vless://fd3677a5-b5ba-4991-b346-b5887b879d84@136.244.69.146:443?encryption=none&security=reality&sni=lond.inbarayeman.xyz&fp=chrome&pbk=vHdKrjLb7iXZXmSxgd4PVrdsRCgYFSlzeqHXoKQiVgY&type=grpc&serviceName=grpc&mode=gun#default-vless_reality_grpc
+
 vless://82273293-9536-4330-ac74-325426ae8f15@manch.barayevatan.ml:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=manch.barayevatan.ml&fp=chrome&type=tcp&headerType=none&host=manch.barayevatan.ml#default-VLESS_TCP%2FTLS_Vision
 vless://82273293-9536-4330-ac74-325426ae8f15@manch.barayevatan.ml:443?encryption=none&security=tls&sni=manch.barayevatan.ml&fp=chrome&type=ws&host=manch.barayevatan.ml&path=%2Fjutaws#default-VLESS_WS
 vless://82273293-9536-4330-ac74-325426ae8f15@manch.barayevatan.ml:443?encryption=none&security=tls&sni=manch.barayevatan.ml&alpn=h2&fp=chrome&type=grpc&serviceName=jutagrpc&mode=gun#default-vless_grpc
