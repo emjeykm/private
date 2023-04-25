@@ -1,6 +1,6 @@
-vless://eb16565d-2e8c-41ba-9bdf-f0f33af823c0@47.87.195.116:443?type=tcp&security=reality&sni=www.googletagmanager.com&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&flow=xtls-rprx-vision&fp=chrome#Dallas-Vless_reality_vision
+vless://eb16565d-2e8c-41ba-9bdf-f0f33af823c0@47.87.195.116:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#Dallas-Vless_reality_vision
 
-vless://02964cb6-7e72-4c23-8ee7-26d672328168@136.244.69.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=2WrqSY8FhVvVJHt2sHG7O9KR7IuwtG-rYOsZ_jjv_D0&sid=213fb610ad6a5ce1&type=tcp&headerType=none#London-Vless_reality_vision
+vless://f5b63c83-f46f-40b3-fc1c-64315f37008a@136.244.69.146:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#London-Vless_reality_vision
 
 vless://68f159c5-edad-443f-91cb-444e41a07063@80.77.23.194:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&headerType=none#Manchester-Vless_reality_vision
 
