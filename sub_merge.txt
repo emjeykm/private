@@ -1,6 +1,6 @@
 vless://eb16565d-2e8c-41ba-9bdf-f0f33af823c0@47.87.195.116:443?type=tcp&security=reality&sni=www.googletagmanager.com&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&flow=xtls-rprx-vision&fp=chrome#Dallas-Vless_reality_vision
 
-vless://31157ab6-14c7-4446-f383-93d0aac8fb70@136.244.69.146:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#London-Vless_reality_vision
+vless://02964cb6-7e72-4c23-8ee7-26d672328168@136.244.69.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=2WrqSY8FhVvVJHt2sHG7O9KR7IuwtG-rYOsZ_jjv_D0&sid=213fb610ad6a5ce1&type=tcp&headerType=none#London-Vless_reality_vision
 
 vless://68f159c5-edad-443f-91cb-444e41a07063@80.77.23.194:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&fp=chrome&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&type=tcp&headerType=none#Manchester-Vless_reality_vision
 
