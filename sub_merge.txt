@@ -1,4 +1,4 @@
-vless://eb16565d-2e8c-41ba-9bdf-f0f33af823c0@47.87.195.116:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#Dallas-Vless_reality_vision
+vless://eb16565d-2e8c-41ba-9bdf-f0f33af823c0@47.87.195.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&fp=chrome&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&sid=7c&type=tcp&headerType=none#Dallas-Vless_reality_vision
 
 vless://f5b63c83-f46f-40b3-fc1c-64315f37008a@136.244.69.146:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google-analytics.com&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#London-Vless_reality_vision
 
