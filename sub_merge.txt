@@ -1,4 +1,4 @@
-vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?security=reality&encryption=none&alpn=h2,http/1.1&pbk=jIQfWiMqZbg7bPJ_oQvmGzZyWgbIqK-HH-aCf_TkFGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=speed.cloudflare.com&sid=f8b4e46e23bbcb5a#Dronten-Reality
+vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=jIQfWiMqZbg7bPJ_oQvmGzZyWgbIqK-HH-aCf_TkFGU&sid=f8b4e46e23bbcb5a&type=tcp&headerType=none#Dronten-Reality
 
 
 vless://3ca03409-2953-4558-9041-0b179f4085ea@manch.barayevatan.ml:443?encryption=none&security=tls&sni=manch.barayevatan.ml&alpn=h2&fp=chrome&allowInsecure=false&type=grpc&serviceName=RtGXToDadZoVLuhJTyX8dS7xH&mode=multi#tls_h2_grpc_direct_vless_manch.barayevatan.ml
