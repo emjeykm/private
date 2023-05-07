@@ -8,6 +8,7 @@ vless://ab86ea86-0da8-49d1-95c4-0b781de04a37@stock.inbarayeman.xyz:443?encryptio
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImFiODZlYTg2LVZNZXNzX1dTIiwNCiAgImFkZCI6ICJzdG9jay5pbmJhcmF5ZW1hbi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYWI4NmVhODYtMGRhOC00OWQxLTk1YzQtMGI3ODFkZTA0YTM3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzdG9jay5pbmJhcmF5ZW1hbi54eXoiLA0KICAicGF0aCI6ICIveXV5bXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzdG9jay5pbmJhcmF5ZW1hbi54eXoiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
 trojan://ab86ea86-0da8-49d1-95c4-0b781de04a37@stock.inbarayeman.xyz:443?security=tls&sni=stock.inbarayeman.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#stock.inbarayeman.xyz_Trojan
 trojan://ab86ea86-0da8-49d1-95c4-0b781de04a37@stock.inbarayeman.xyz:443?security=tls&sni=stock.inbarayeman.xyz&alpn=h2&fp=chrome&type=grpc&serviceName=yuymtrojangrpc&mode=gun#ab86ea86-Trojan_gRPC
+vless://ab86ea86-0da8-49d1-95c4-0b781de04a37@77.91.87.67:33195?encryption=none&flow=xtls-rprx-vision&security=reality&sni=itunes.apple.com&fp=chrome&pbk=YLhtbhrfi2PvZhyvGwJRpQH3HQcEJLHBntkNXg-QrS0&type=tcp&headerType=none#ab86ea86-vless_reality_vision
 vless://ab86ea86-0da8-49d1-95c4-0b781de04a37@77.91.87.67:33195?encryption=none&security=reality&sni=itunes.apple.com&fp=chrome&pbk=YLhtbhrfi2PvZhyvGwJRpQH3HQcEJLHBntkNXg-QrS0&type=grpc&serviceName=grpc&mode=gun#ab86ea86-vless_reality_grpc
 
 
