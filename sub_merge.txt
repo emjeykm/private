@@ -2,6 +2,16 @@ vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=no
 
 vless://081afd1a-f214-4287-ba23-86e3b270b7eb@47.87.195.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=chrome&pbk=l0EN2JlUmv8EUjmoObpHIASaZaqpCvKpjOSPw_3wB3s&sid=c976d566&spx=%2F&type=tcp&headerType=none#Dallas-REALITY
 
+vless://ab86ea86-0da8-49d1-95c4-0b781de04a37@stock.inbarayeman.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=stock.inbarayeman.xyz&fp=chrome&type=tcp&headerType=none&host=stock.inbarayeman.xyz#ab86ea86-VLESS_TCP%2FTLS_Vision
+vless://ab86ea86-0da8-49d1-95c4-0b781de04a37@stock.inbarayeman.xyz:443?encryption=none&security=tls&sni=stock.inbarayeman.xyz&fp=chrome&type=ws&host=stock.inbarayeman.xyz&path=%2Fyuymws#ab86ea86-VLESS_WS
+vless://ab86ea86-0da8-49d1-95c4-0b781de04a37@stock.inbarayeman.xyz:443?encryption=none&security=tls&sni=stock.inbarayeman.xyz&alpn=h2&fp=chrome&type=grpc&serviceName=yuymgrpc&mode=gun#ab86ea86-vless_grpc
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImFiODZlYTg2LVZNZXNzX1dTIiwNCiAgImFkZCI6ICJzdG9jay5pbmJhcmF5ZW1hbi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYWI4NmVhODYtMGRhOC00OWQxLTk1YzQtMGI3ODFkZTA0YTM3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzdG9jay5pbmJhcmF5ZW1hbi54eXoiLA0KICAicGF0aCI6ICIveXV5bXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzdG9jay5pbmJhcmF5ZW1hbi54eXoiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
+trojan://ab86ea86-0da8-49d1-95c4-0b781de04a37@stock.inbarayeman.xyz:443?security=tls&sni=stock.inbarayeman.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#stock.inbarayeman.xyz_Trojan
+trojan://ab86ea86-0da8-49d1-95c4-0b781de04a37@stock.inbarayeman.xyz:443?security=tls&sni=stock.inbarayeman.xyz&alpn=h2&fp=chrome&type=grpc&serviceName=yuymtrojangrpc&mode=gun#ab86ea86-Trojan_gRPC
+vless://ab86ea86-0da8-49d1-95c4-0b781de04a37@77.91.87.67:33195?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stock.inbarayeman.xyz&fp=chrome&pbk=6xDkiANVwBqdrS0JzU3IlfoVgHPu7hmiKnfsUT8h5EI&type=tcp&headerType=none#ab86ea86-vless_reality_vision
+vless://ab86ea86-0da8-49d1-95c4-0b781de04a37@77.91.87.67:33195?encryption=none&security=reality&sni=stock.inbarayeman.xyz&fp=chrome&pbk=6xDkiANVwBqdrS0JzU3IlfoVgHPu7hmiKnfsUT8h5EI&type=grpc&serviceName=grpc&mode=gun#ab86ea86-vless_reality_grpc
+
+
 vless://72A2478A-FE5F-6CFC-74F0-2781E6E5DDCF@wild-brook-e1be.raspy-recipe-71c0.workers.dev:443?encryption=none&security=tls&sni=wild-brook-e1be.raspy-recipe-71c0.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=wild-brook-e1be.raspy-recipe-71c0.workers.dev&path=%2F#TG-Austria-CDN-Vless
 vless://72A2478A-FE5F-6CFC-74F0-2781E6E5DDCF@misty-resonance-2b1b.raspy-recipe-71c0.workers.dev:443?encryption=none&security=tls&sni=misty-resonance-2b1b.raspy-recipe-71c0.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=misty-resonance-2b1b.raspy-recipe-71c0.workers.dev&path=%2F#TG-Bulgaria-CDN-Vless
 vless://72A2478A-FE5F-6CFC-74F0-2781E6E5DDCF@orange-dew-0f15.raspy-recipe-71c0.workers.dev:443?encryption=none&security=tls&sni=orange-dew-0f15.raspy-recipe-71c0.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=orange-dew-0f15.raspy-recipe-71c0.workers.dev&path=%2F#TG-Canada-CDN-Vless
