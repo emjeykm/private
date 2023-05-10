@@ -4,7 +4,7 @@ vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=no
 
 vless://081afd1a-f214-4287-ba23-86e3b270b7eb@47.87.195.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=chrome&pbk=l0EN2JlUmv8EUjmoObpHIASaZaqpCvKpjOSPw_3wB3s&sid=c976d566&spx=%2F&type=tcp&headerType=none#Dallas-REALITY
 
-vless://9cde0cd7-2d3b-4c65-bac2-f980811fe540@185.112.83.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=d9tJT1yUmLYQ66U92USnCVY_z53DVKLTvT_QITR58mc&sid=ece8a4bc411a90b7&type=tcp&headerType=none#Moscow-REALITY
+vless://9d428de3-19f1-430e-a8f9-7fead8cb2cf4@185.112.83.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.google.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=DgtAYzgW-DY7KPSALggj-9UW0gBI4xNOFQUZtOnHEGM&sid=c0b3d3a6eb9a2228&type=tcp&headerType=none#Moscow-REALITY
 
 vless://63aa1226-9007-41fe-a5b1-369e60ae3fce@185.17.0.64:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.google.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=WEXKE_XU0sph0furnulwRHUB5LveZjwosWP1ow7sv0k&sid=847855f63be4eb8c&type=tcp&headerType=none#Moscow-2-REALITY
 
