@@ -7,9 +7,6 @@ vless://081afd1a-f214-4287-ba23-86e3b270b7eb@47.87.195.116:443?encryption=none&f
 vless://f60ba78f-c004-4bd6-9224-2017674cbce1@185.112.83.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=microsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=mIjE1sdmXWRIN6OU2MkmwLRexxUNPx6joJJyOJGocWs&sid=39b3ad7decaab31f&type=tcp&headerType=none#Moscow-REALITY
 vless://f60ba78f-c004-4bd6-9224-2017674cbce1@185.112.83.53:443?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=microsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=mIjE1sdmXWRIN6OU2MkmwLRexxUNPx6joJJyOJGocWs&sid=39b3ad7decaab31f&type=tcp&headerType=none#Moscow-REALITY
 
-vless://a14975d5-4297-4954-9ef0-7b1f91ea5c7c@185.17.0.64:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=microsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=mRRXZd825S1ErcODXMrwjI5k_f0KhYTBR_twcNqcD0I&sid=8f3e85c0db95f842&type=tcp&headerType=none#Moscow-2-REALITY
-vless://a14975d5-4297-4954-9ef0-7b1f91ea5c7c@185.17.0.64:443?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=microsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=mRRXZd825S1ErcODXMrwjI5k_f0KhYTBR_twcNqcD0I&sid=8f3e85c0db95f842&type=tcp&headerType=none#Moscow-2-REALITY
-
 vless://041ae480-8cf5-4080-f5d7-9b5d12eb543a@mtn.myprivatezone.site:443?security=tls&sni=sowhat.myprivatezone.site&fp=randomized&type=ws&path=/&host=sowhat.myprivatezone.site#@meta_v2ray
 vless://20db2597-885a-4542-f1b2-25955358a555@rxv2ray.ddns.net:2096?security=tls&sni=tm.rxv2ray.space&type=grpc&serviceName=@rxv2ray#@Kurdvpn1+irancell+%F0%9F%94%A5
 vmess://eyJhZGQiOiI0NS44OS4xMDYuMTEyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjY4YjJmMzg2LWUwNjEtNDBjYi04Y2E3LTUwZTA2YzEwYjY1OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAQWxpZW5WUE40MDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
