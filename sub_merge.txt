@@ -4,8 +4,8 @@ vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=no
 
 vless://081afd1a-f214-4287-ba23-86e3b270b7eb@47.87.195.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=chrome&pbk=l0EN2JlUmv8EUjmoObpHIASaZaqpCvKpjOSPw_3wB3s&sid=c976d566&spx=%2F&type=tcp&headerType=none#Dallas-REALITY
 
-vless://4076e46c-4aed-444f-b9cd-1ca4098150a4@185.112.83.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=firefox&pbk=Pw9Qg__mmmoAhBXD6-Un52Axg_EEEx6MoSmiHjOuPl4&sid=338ad382ee0cf48f&type=tcp&headerType=none#Moscow-REALITY
+vless://f60ba78f-c004-4bd6-9224-2017674cbce1@185.112.83.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=microsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=mIjE1sdmXWRIN6OU2MkmwLRexxUNPx6joJJyOJGocWs&sid=39b3ad7decaab31f&type=tcp&headerType=none#Moscow-REALITY
+vless://f60ba78f-c004-4bd6-9224-2017674cbce1@185.112.83.53:443?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=microsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=mIjE1sdmXWRIN6OU2MkmwLRexxUNPx6joJJyOJGocWs&sid=39b3ad7decaab31f&type=tcp&headerType=none#Moscow-REALITY
 
-
-vless://fa599a8a-551c-4c58-ada5-0eb330002cbc@185.17.0.64:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gapple-host.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=t7YYXAMCKbX9Ss5iAhl5s2OMEEwv5-f0Z_75I8W_ni8&sid=e66aab68a1272df0&type=tcp&headerType=none#Moscow-2-REALITY
-vless://fa599a8a-551c-4c58-ada5-0eb330002cbc@185.17.0.64:443?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=gapple-host.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=t7YYXAMCKbX9Ss5iAhl5s2OMEEwv5-f0Z_75I8W_ni8&sid=e66aab68a1272df0&type=tcp&headerType=none#Moscow-2-REALITY
+vless://a14975d5-4297-4954-9ef0-7b1f91ea5c7c@185.17.0.64:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=microsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=mRRXZd825S1ErcODXMrwjI5k_f0KhYTBR_twcNqcD0I&sid=8f3e85c0db95f842&type=tcp&headerType=none#Moscow-2-REALITY
+vless://a14975d5-4297-4954-9ef0-7b1f91ea5c7c@185.17.0.64:443?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=microsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=mRRXZd825S1ErcODXMrwjI5k_f0KhYTBR_twcNqcD0I&sid=8f3e85c0db95f842&type=tcp&headerType=none#Moscow-2-REALITY
