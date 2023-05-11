@@ -4,6 +4,15 @@ vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=no
 
 vless://081afd1a-f214-4287-ba23-86e3b270b7eb@47.87.195.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=chrome&pbk=l0EN2JlUmv8EUjmoObpHIASaZaqpCvKpjOSPw_3wB3s&sid=c976d566&spx=%2F&type=tcp&headerType=none#Dallas-REALITY
 
+vless://bb2a02cf-2880-4789-806a-153133e2c09a@mosc.barayevatan.ml:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=mosc.barayevatan.ml&fp=chrome&type=tcp&headerType=none&host=mosc.barayevatan.ml#bb2a02cf-VLESS_TCP%2FTLS_Vision
+vless://bb2a02cf-2880-4789-806a-153133e2c09a@mosc.barayevatan.ml:443?encryption=none&security=tls&sni=mosc.barayevatan.ml&fp=chrome&type=ws&host=mosc.barayevatan.ml&path=%2Firxcws#bb2a02cf-VLESS_WS
+vless://bb2a02cf-2880-4789-806a-153133e2c09a@mosc.barayevatan.ml:443?encryption=none&security=tls&sni=mosc.barayevatan.ml&alpn=h2&fp=chrome&type=grpc&serviceName=irxcgrpc&mode=gun#bb2a02cf-vless_grpc
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImJiMmEwMmNmLVZNZXNzX1dTIiwNCiAgImFkZCI6ICJtb3NjLmJhcmF5ZXZhdGFuLm1sIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImJiMmEwMmNmLTI4ODAtNDc4OS04MDZhLTE1MzEzM2UyYzA5YSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibW9zYy5iYXJheWV2YXRhbi5tbCIsDQogICJwYXRoIjogIi9pcnhjdndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIm1vc2MuYmFyYXlldmF0YW4ubWwiLA0KICAiYWxwbiI6ICIiDQp9
+trojan://bb2a02cf-2880-4789-806a-153133e2c09a@mosc.barayevatan.ml:443?security=tls&sni=mosc.barayevatan.ml&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#mosc.barayevatan.ml_Trojan
+trojan://bb2a02cf-2880-4789-806a-153133e2c09a@mosc.barayevatan.ml:443?security=tls&sni=mosc.barayevatan.ml&alpn=h2&fp=chrome&type=grpc&serviceName=irxctrojangrpc&mode=gun#bb2a02cf-Trojan_gRPC
+vless://bb2a02cf-2880-4789-806a-153133e2c09a@185.112.83.53:14973?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mosc.barayevatan.ml&fp=chrome&pbk=EhAJSSAEe2ZpPtM7avEiAv0YT9VB0gO5uoImMTlCqwI&type=tcp&headerType=none#bb2a02cf-vless_reality_vision
+vless://bb2a02cf-2880-4789-806a-153133e2c09a@185.112.83.53:14973?encryption=none&security=reality&sni=mosc.barayevatan.ml&fp=chrome&pbk=EhAJSSAEe2ZpPtM7avEiAv0YT9VB0gO5uoImMTlCqwI&type=grpc&serviceName=grpc&mode=gun#bb2a02cf-vless_reality_grpc
+
 vless://041ae480-8cf5-4080-f5d7-9b5d12eb543a@mtn.myprivatezone.site:443?security=tls&sni=sowhat.myprivatezone.site&fp=randomized&type=ws&path=/&host=sowhat.myprivatezone.site#@meta_v2ray
 vless://20db2597-885a-4542-f1b2-25955358a555@rxv2ray.ddns.net:2096?security=tls&sni=tm.rxv2ray.space&type=grpc&serviceName=@rxv2ray#@Kurdvpn1+irancell+%F0%9F%94%A5
 vmess://eyJhZGQiOiI0NS44OS4xMDYuMTEyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjY4YjJmMzg2LWUwNjEtNDBjYi04Y2E3LTUwZTA2YzEwYjY1OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAQWxpZW5WUE40MDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
