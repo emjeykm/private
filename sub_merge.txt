@@ -4,7 +4,7 @@ vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=no
 
 vless://081afd1a-f214-4287-ba23-86e3b270b7eb@47.87.195.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare.com&fp=chrome&pbk=l0EN2JlUmv8EUjmoObpHIASaZaqpCvKpjOSPw_3wB3s&sid=c976d566&spx=%2F&type=tcp&headerType=none#Dallas-REALITY
 
-vless://12c5485c-76fd-4a67-a9c4-67bd3d954490@185.112.83.53:443?type=tcp&security=reality&pbk=XkxUU6r0ISscMAoopWda5MzTKbGC4qjKKwLBVvrbL3w&fp=chrome&sni=github.com&spx=%2F#fd0naxj7nu
+vless://12c5485c-76fd-4a67-a9c4-67bd3d954490@185.112.83.53:443?encryption=none&security=reality&sni=github.com&fp=chrome&pbk=XkxUU6r0ISscMAoopWda5MzTKbGC4qjKKwLBVvrbL3w&spx=%2F&type=tcp&headerType=none#Moscow-Reality
 
 vless://041ae480-8cf5-4080-f5d7-9b5d12eb543a@mtn.myprivatezone.site:443?security=tls&sni=sowhat.myprivatezone.site&fp=randomized&type=ws&path=/&host=sowhat.myprivatezone.site#@meta_v2ray
 vless://20db2597-885a-4542-f1b2-25955358a555@rxv2ray.ddns.net:2096?security=tls&sni=tm.rxv2ray.space&type=grpc&serviceName=@rxv2ray#@Kurdvpn1+irancell+%F0%9F%94%A5
