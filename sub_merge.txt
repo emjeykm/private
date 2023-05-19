@@ -7,6 +7,3 @@ vless://bc784d64-20b0-4b87-ba56-3a74d8d027ef@47.87.195.116:443?security=reality&
 vless://5de47cc2-863f-42b8-dfa0-9a50f28a8422@185.112.83.53:443?security=reality&sni=datadoghq.com&fp=chrome&pbk=4MqmyJImRSoSoqaEIw37ibP83u6MtKT7bZShzE8LRw0&sid=a1bb9b47&type=tcp&flow=xtls-rprx-vision#Moscow-Reality
 
 vless://c306dee7-7a04-4f6b-af99-4b50840e0c32@65.109.210.90:443?security=reality&sni=datadoghq.com&fp=chrome&pbk=cHEVrFpPhdzW3R29ueD6FAKfCtk4jULnPN434AJXjQA&sid=3807faa4&type=tcp&flow=xtls-rprx-vision#Helsinki-Reality
-
-vless://dda8ea34-26fc-4099-f3d5-6f88232a94ca@51.68.186.173:50248?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=yahoo.com&fp=randomized&pbk=0tztQmNeIfA0gt1vXB_wBvXJtdPiAMIt_yCfIRSSBAY&sid=1ab36d32&type=tcp&headerType=none#VipVPNCenter-Free-Ghafandar
-vless://58d5bb99-49e4-4d85-e413-0b7798d584d2@185.253.47.45:8443?encryption=none&security=reality&sni=eltra-trade.eu&fp=firefox&pbk=A_fBcEytgzzURCA5OzvO-SwxvTpqGmBd8r9JQivocE0&type=tcp&headerType=none#IRVLESS-REALITY31
