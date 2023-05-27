@@ -4,4 +4,4 @@ vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=no
 
 vless://c306dee7-7a04-4f6b-af99-4b50840e0c32@65.109.210.90:443?security=reality&sni=datadoghq.com&fp=chrome&pbk=cHEVrFpPhdzW3R29ueD6FAKfCtk4jULnPN434AJXjQA&sid=3807faa4&type=tcp&flow=xtls-rprx-vision#Helsinki-Reality
 
-vless://2b52ae1d-e323-4fce-f106-ab843a0de383@46.37.124.49:443?type=tcp&security=reality&pbk=0ow8M9Fg2IKt7gVeDDZBXTZMirvThjWShHCsPN7l6xQ&fp=chrome&sni=datadoghq.com&spx=%2F&flow=xtls-rprx-vision#UK-Reality
+vless://2b52ae1d-e323-4fce-f106-ab843a0de383@46.37.124.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=datadoghq.com&fp=chrome&pbk=0ow8M9Fg2IKt7gVeDDZBXTZMirvThjWShHCsPN7l6xQ&spx=%2F&type=tcp&headerType=none#UK-Reality
