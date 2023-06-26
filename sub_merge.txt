@@ -5,3 +5,5 @@ vless://c306dee7-7a04-4f6b-af99-4b50840e0c32@65.109.210.90:443?security=reality&
 vless://2b52ae1d-e323-4fce-f106-ab843a0de383@46.37.124.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=datadoghq.com&fp=chrome&pbk=0ow8M9Fg2IKt7gVeDDZBXTZMirvThjWShHCsPN7l6xQ&spx=%2F&type=tcp&headerType=none#UK-Reality
 
 vless://dad1e4ca-a77c-4183-a8ea-3f6b3281a457@185.17.0.28:2082?security=&type=tcp&headerType=http&host=#Moscow
+
+vless://7a17b5a6-fc1e-4286-8279-77840f78713c@65.109.190.208:2082?security=&type=tcp&headerType=http&host=#Helsinki
