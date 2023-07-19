@@ -1,3 +1,3 @@
 vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=jIQfWiMqZbg7bPJ_oQvmGzZyWgbIqK-HH-aCf_TkFGU&sid=f8b4e46e23bbcb5a&type=tcp&headerType=none#Dronten-REALITY
 
-vless://a9a05d33-235b-40c8-9e3f-3f2ae6a31697@65.109.210.90:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=dpZ5XuX75x7Qpf3sMu2qW7gl__0ihN-VfMKiHyX_RC0&sid=0fc9a596&spx=/&type=tcp&flow=xtls-rprx-vision#Helsinki-Reality
+vless://a9a05d33-235b-40c8-9e3f-3f2ae6a31697@65.109.210.90:38332?type=tcp&security=reality&fp=chrome&pbk=dpZ5XuX75x7Qpf3sMu2qW7gl__0ihN-VfMKiHyX_RC0&sni=ftp.debian.org&flow=xtls-rprx-vision&sid=0fc9a596&spx=%2F#Helsinki-Reality
