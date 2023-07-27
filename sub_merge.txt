@@ -1,60 +1,301 @@
 vless://8fc52f37-3e6b-481a-b4a0-5819ddf10c0b@195.170.172.108:20301?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=jIQfWiMqZbg7bPJ_oQvmGzZyWgbIqK-HH-aCf_TkFGU&sid=f8b4e46e23bbcb5a&type=tcp&headerType=none#Dronten-REALITY
 
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=kolektiva.social&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#kolektiva.social_reality_XTLS_direct_vless
-vmess://eyJhZGQiOiJtdW1iLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6IjM2YmU0NGI1LTQzMDYtNDMxZi04MjBlLTJmODYzNmVkYzIzNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9Jc3BRT3lPa29ndFpyd013MWdDUXpvWTI1IiwicG9ydCI6IjgwIiwicHMiOiJtdW1iLmluYmFyYXllbWFuLnh5el9odHRwX1dTX2RpcmVjdF92bWVzcyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#mumb.inbarayeman.xyz_tls_h2_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=ws&path=/TfzuKpYMw1gCQzoY25&host=mumb.inbarayeman.xyz&encryption=none#mumb.inbarayeman.xyz_tls_h2_WS_direct_vless
-trojan://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=ws&path=/BCR46ONiDQ0ZVVMw1gCQzoY25&host=mumb.inbarayeman.xyz#mumb.inbarayeman.xyz_tls_h2_WS_direct_trojan
-vmess://eyJhZGQiOiJtdW1iLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6IjM2YmU0NGI1LTQzMDYtNDMxZi04MjBlLTJmODYzNmVkYzIzNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9Jc3BRT3lPa29ndFpyd013MWdDUXpvWTI1IiwicG9ydCI6IjQ0MyIsInBzIjoibXVtYi5pbmJhcmF5ZW1hbi54eXpfdGxzX2gyX1dTX2RpcmVjdF92bWVzcyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=grpc&serviceName=TfzuKpYOrIR2iXdHId4Kf&encryption=none#mumb.inbarayeman.xyz_tls_h2_grpc_direct_vless
-trojan://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=grpc&serviceName=BCR46ONiDQ0ZVVOrIR2iXdHId4Kf#mumb.inbarayeman.xyz_tls_h2_grpc_direct_trojan
-vmess://eyJhZGQiOiJtdW1iLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6IjM2YmU0NGI1LTQzMDYtNDMxZi04MjBlLTJmODYzNmVkYzIzNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiSXNwUU95T2tvZ3RacndPcklSMmlYZEhJZDRLZiIsInBvcnQiOiI0NDMiLCJwcyI6Im11bWIuaW5iYXJheWVtYW4ueHl6X3Rsc19oMl9ncnBjX2RpcmVjdF92bWVzcyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#mumb.inbarayeman.xyz_tls_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=ws&path=/TfzuKpYMw1gCQzoY25&host=mumb.inbarayeman.xyz&encryption=none#mumb.inbarayeman.xyz_tls_WS_direct_vless
-trojan://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=ws&path=/BCR46ONiDQ0ZVVMw1gCQzoY25&host=mumb.inbarayeman.xyz#mumb.inbarayeman.xyz_tls_WS_direct_trojan
-vmess://eyJhZGQiOiJtdW1iLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6IjM2YmU0NGI1LTQzMDYtNDMxZi04MjBlLTJmODYzNmVkYzIzNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9Jc3BRT3lPa29ndFpyd013MWdDUXpvWTI1IiwicG9ydCI6IjQ0MyIsInBzIjoibXVtYi5pbmJhcmF5ZW1hbi54eXpfdGxzX1dTX2RpcmVjdF92bWVzcyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=grpc&serviceName=TfzuKpYOrIR2iXdHId4Kf&encryption=none#mumb.inbarayeman.xyz_tls_grpc_direct_vless
-trojan://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?security=tls&sni=mumb.inbarayeman.xyz&fp=chrome&type=grpc&serviceName=BCR46ONiDQ0ZVVOrIR2iXdHId4Kf#mumb.inbarayeman.xyz_tls_grpc_direct_trojan
-vmess://eyJhZGQiOiJtdW1iLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6IjM2YmU0NGI1LTQzMDYtNDMxZi04MjBlLTJmODYzNmVkYzIzNyIsIm5ldCI6ImdycGMiLCJwYXRoIjoiSXNwUU95T2tvZ3RacndPcklSMmlYZEhJZDRLZiIsInBvcnQiOiI0NDMiLCJwcyI6Im11bWIuaW5iYXJheWVtYW4ueHl6X3Rsc19ncnBjX2RpcmVjdF92bWVzcyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=substack.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#substack.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=ispsystem.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#ispsystem.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=libgen.st&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#libgen.st_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=www.kurdishworld.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#www.kurdishworld.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=nextstrain.org&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#nextstrain.org_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=cdn.accuweather.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#cdn.accuweather.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#ftp.debian.org_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#www.speedtest.net_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=coinmarketcap.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#coinmarketcap.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=soup.io&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#soup.io_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=ovhcloud.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#ovhcloud.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=homeblogs.space&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#homeblogs.space_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=monicarettig.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#monicarettig.com_reality_XTLS_direct_vless
-ss://36bvv73vv73vv73vv73vv73vv73vv73vv73vv70377-977-977-977-9R--_ve-_ve-_vTrfp--_vXNt77-9@mumb.inbarayeman.xyz:443#mumb.inbarayeman.xyz_tls_h2_shadowtls_direct_ss
-ss://36bvv73vv73vv73vv73vv73vv73vv73vv73vv70377-977-977-977-9R--_ve-_ve-_vTrfp--_vXNt77-9@mumb.inbarayeman.xyz:443#mumb.inbarayeman.xyz_tls_shadowtls_direct_ss
+####################################
+##  reality  substack.com  http:80
+####################################
+####################################
+##  reality  substack.com  tls:443
+####################################
 
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=substack.com&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#substack.com_reality_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=ispsystem.com&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#ispsystem.com_reality_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=libgen.st&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#libgen.st_reality_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=www.kurdishworld.com&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#www.kurdishworld.com_reality_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=nextstrain.org&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#nextstrain.org_reality_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=cdn.accuweather.com&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#cdn.accuweather.com_reality_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#ftp.debian.org_reality_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#www.speedtest.net_reality_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?security=reality&sni=coinmarketcap.com&fp=chrome&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746&type=tcp&flow=xtls-rprx-vision&encryption=none#coinmarketcap.com_reality_XTLS_direct_vless
-vmess://eyJhZGQiOiJoZWxsLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6ImNmM2FkMDQ2LWY4ZGYtNDc0ZC04NTQzLTU0ZDRjODA4MDFjZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTGhtdjJSSDJydE5BdEVHWU5aTmVxZnkiLCJwb3J0IjoiODAiLCJwcyI6ImhlbGwuaW5iYXJheWVtYW4ueHl6X2h0dHBfV1NfZGlyZWN0X3ZtZXNzIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJoZWxsLmluYmFyYXllbWFuLnh5eiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#hell.inbarayeman.xyz_tls_h2_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=ws&path=/BbhV4BIh7ANAtEGYNZNeqfy&host=hell.inbarayeman.xyz&encryption=none#hell.inbarayeman.xyz_tls_h2_WS_direct_vless
-trojan://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=ws&path=/Xsd4fKkSGwop10BNAtEGYNZNeqfy&host=hell.inbarayeman.xyz#hell.inbarayeman.xyz_tls_h2_WS_direct_trojan
-vmess://eyJhZGQiOiJoZWxsLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6ImNmM2FkMDQ2LWY4ZGYtNDc0ZC04NTQzLTU0ZDRjODA4MDFjZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTGhtdjJSSDJydE5BdEVHWU5aTmVxZnkiLCJwb3J0IjoiNDQzIiwicHMiOiJoZWxsLmluYmFyYXllbWFuLnh5el90bHNfaDJfV1NfZGlyZWN0X3ZtZXNzIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJoZWxsLmluYmFyYXllbWFuLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=grpc&serviceName=BbhV4BIh7AoBnkUIobhlQ&encryption=none#hell.inbarayeman.xyz_tls_h2_grpc_direct_vless
-trojan://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=grpc&serviceName=Xsd4fKkSGwop10BoBnkUIobhlQ#hell.inbarayeman.xyz_tls_h2_grpc_direct_trojan
-vmess://eyJhZGQiOiJoZWxsLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6ImNmM2FkMDQ2LWY4ZGYtNDc0ZC04NTQzLTU0ZDRjODA4MDFjZSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiTUxobXYyUkgycnRvQm5rVUlvYmhsUSIsInBvcnQiOiI0NDMiLCJwcyI6ImhlbGwuaW5iYXJheWVtYW4ueHl6X3Rsc19oMl9ncnBjX2RpcmVjdF92bWVzcyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-ss://ce-_ve-_vXdOOu-_ve-_vR1_77-9O--_vd-877-977-977-977-977-9eHPvv70877-9Vx4=@hell.inbarayeman.xyz:443#hell.inbarayeman.xyz_tls_h2_shadowtls_direct_ss
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#hell.inbarayeman.xyz_tls_XTLS_direct_vless
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=ws&path=/BbhV4BIh7ANAtEGYNZNeqfy&host=hell.inbarayeman.xyz&encryption=none#hell.inbarayeman.xyz_tls_WS_direct_vless
-trojan://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=ws&path=/Xsd4fKkSGwop10BNAtEGYNZNeqfy&host=hell.inbarayeman.xyz#hell.inbarayeman.xyz_tls_WS_direct_trojan
-vmess://eyJhZGQiOiJoZWxsLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6ImNmM2FkMDQ2LWY4ZGYtNDc0ZC04NTQzLTU0ZDRjODA4MDFjZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTGhtdjJSSDJydE5BdEVHWU5aTmVxZnkiLCJwb3J0IjoiNDQzIiwicHMiOiJoZWxsLmluYmFyYXllbWFuLnh5el90bHNfV1NfZGlyZWN0X3ZtZXNzIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiJoZWxsLmluYmFyYXllbWFuLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=grpc&serviceName=BbhV4BIh7AoBnkUIobhlQ&encryption=none#hell.inbarayeman.xyz_tls_grpc_direct_vless
-trojan://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?security=tls&sni=hell.inbarayeman.xyz&fp=chrome&type=grpc&serviceName=Xsd4fKkSGwop10BoBnkUIobhlQ#hell.inbarayeman.xyz_tls_grpc_direct_trojan
-vmess://eyJhZGQiOiJoZWxsLmluYmFyYXllbWFuLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCJpZCI6ImNmM2FkMDQ2LWY4ZGYtNDc0ZC04NTQzLTU0ZDRjODA4MDFjZSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiTUxobXYyUkgycnRvQm5rVUlvYmhsUSIsInBvcnQiOiI0NDMiLCJwcyI6ImhlbGwuaW5iYXJheWVtYW4ueHl6X3Rsc19ncnBjX2RpcmVjdF92bWVzcyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
-ss://ce-_ve-_vXdOOu-_ve-_vR1_77-9O--_vd-877-977-977-977-977-9eHPvv70877-9Vx4=@hell.inbarayeman.xyz:443#hell.inbarayeman.xyz_tls_shadowtls_direct_ss
+# reality_XTLS_direct_vless substack.com 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=substack.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#substack.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  ispsystem.com  http:80
+####################################
+####################################
+##  reality  ispsystem.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless ispsystem.com 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=ispsystem.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#ispsystem.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  libgen.st  http:80
+####################################
+####################################
+##  reality  libgen.st  tls:443
+####################################
+
+# reality_XTLS_direct_vless libgen.st 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=libgen.st&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#libgen.st_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  www.kurdishworld.com  http:80
+####################################
+####################################
+##  reality  www.kurdishworld.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless www.kurdishworld.com 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=www.kurdishworld.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#www.kurdishworld.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  nextstrain.org  http:80
+####################################
+####################################
+##  reality  nextstrain.org  tls:443
+####################################
+
+# reality_XTLS_direct_vless nextstrain.org 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=nextstrain.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#nextstrain.org_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  cdn.accuweather.com  http:80
+####################################
+####################################
+##  reality  cdn.accuweather.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless cdn.accuweather.com 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=cdn.accuweather.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#cdn.accuweather.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  ftp.debian.org  http:80
+####################################
+####################################
+##  reality  ftp.debian.org  tls:443
+####################################
+
+# reality_XTLS_direct_vless ftp.debian.org 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=ftp.debian.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#ftp.debian.org_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  www.speedtest.net  http:80
+####################################
+####################################
+##  reality  www.speedtest.net  tls:443
+####################################
+
+# reality_XTLS_direct_vless www.speedtest.net 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=www.speedtest.net&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#www.speedtest.net_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  coinmarketcap.com  http:80
+####################################
+####################################
+##  reality  coinmarketcap.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless coinmarketcap.com 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=coinmarketcap.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=-7gNQMB0Rqo7xuiZj66E42fWVeSl98qerQ41-tvzsB4&sid=38074b146746#coinmarketcap.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  kolektiva.social  http:80
+####################################
+####################################
+##  reality  kolektiva.social  tls:443
+####################################
+
+# reality_XTLS_direct_vless kolektiva.social 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=kolektiva.social&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#kolektiva.social_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  substack.com  http:80
+####################################
+####################################
+##  reality  substack.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless substack.com 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=substack.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#substack.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  ispsystem.com  http:80
+####################################
+####################################
+##  reality  ispsystem.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless ispsystem.com 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=ispsystem.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#ispsystem.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  libgen.st  http:80
+####################################
+####################################
+##  reality  libgen.st  tls:443
+####################################
+
+# reality_XTLS_direct_vless libgen.st 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=libgen.st&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#libgen.st_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  www.kurdishworld.com  http:80
+####################################
+####################################
+##  reality  www.kurdishworld.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless www.kurdishworld.com 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=www.kurdishworld.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#www.kurdishworld.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  nextstrain.org  http:80
+####################################
+####################################
+##  reality  nextstrain.org  tls:443
+####################################
+
+# reality_XTLS_direct_vless nextstrain.org 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=nextstrain.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#nextstrain.org_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  cdn.accuweather.com  http:80
+####################################
+####################################
+##  reality  cdn.accuweather.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless cdn.accuweather.com 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=cdn.accuweather.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#cdn.accuweather.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  ftp.debian.org  http:80
+####################################
+####################################
+##  reality  ftp.debian.org  tls:443
+####################################
+
+# reality_XTLS_direct_vless ftp.debian.org 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=ftp.debian.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#ftp.debian.org_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  www.speedtest.net  http:80
+####################################
+####################################
+##  reality  www.speedtest.net  tls:443
+####################################
+
+# reality_XTLS_direct_vless www.speedtest.net 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=www.speedtest.net&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#www.speedtest.net_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  coinmarketcap.com  http:80
+####################################
+####################################
+##  reality  coinmarketcap.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless coinmarketcap.com 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=coinmarketcap.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#coinmarketcap.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  soup.io  http:80
+####################################
+####################################
+##  reality  soup.io  tls:443
+####################################
+
+# reality_XTLS_direct_vless soup.io 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=soup.io&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#soup.io_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  ovhcloud.com  http:80
+####################################
+####################################
+##  reality  ovhcloud.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless ovhcloud.com 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=ovhcloud.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#ovhcloud.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  homeblogs.space  http:80
+####################################
+####################################
+##  reality  homeblogs.space  tls:443
+####################################
+
+# reality_XTLS_direct_vless homeblogs.space 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=homeblogs.space&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#homeblogs.space_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  monicarettig.com  http:80
+####################################
+####################################
+##  reality  monicarettig.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless monicarettig.com 
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=monicarettig.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#monicarettig.com_reality_XTLS_direct_vless
+
+
+
+
