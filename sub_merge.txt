@@ -118,6 +118,67 @@ vless://cf3ad046-f8df-474d-8543-54d4c80801ce@65.109.219.66:443?hiddify=1&sni=coi
 
 
 ####################################
+##  old_xtls_direct  hell.inbarayeman.xyz  http:80
+####################################
+
+# http_WS_direct_vmess hell.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaGVsbC5pbmJhcmF5ZW1hbi54eXpfaHR0cF9XU19kaXJlY3Rfdm1lc3MiLCAiYWRkIjogImhlbGwuaW5iYXJheWVtYW4ueHl6IiwgInBvcnQiOiA4MCwgImlkIjogImNmM2FkMDQ2LWY4ZGYtNDc0ZC04NTQzLTU0ZDRjODA4MDFjZSIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiL01MaG12MlJIMnJ0TkF0RUdZTlpOZXFmeSIsICJ0bHMiOiAiIiwgInNuaSI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+####################################
+##  old_xtls_direct  hell.inbarayeman.xyz  tls:443
+####################################
+
+# tls_h2_XTLS_direct_vless hell.inbarayeman.xyz 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=tcp&alpn=h2&host=hell.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#hell.inbarayeman.xyz_tls_h2_XTLS_direct_vless
+
+# tls_h2_WS_direct_vless hell.inbarayeman.xyz 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=ws&alpn=h2&path=/BbhV4BIh7ANAtEGYNZNeqfy&host=hell.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_h2_WS_direct_vless
+
+# tls_h2_WS_direct_trojan hell.inbarayeman.xyz 
+trojan://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=ws&alpn=h2&path=/Xsd4fKkSGwop10BNAtEGYNZNeqfy&host=hell.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_h2_WS_direct_trojan
+
+# tls_h2_WS_direct_vmess hell.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaGVsbC5pbmJhcmF5ZW1hbi54eXpfdGxzX2gyX1dTX2RpcmVjdF92bWVzcyIsICJhZGQiOiAiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCAicG9ydCI6IDQ0MywgImlkIjogImNmM2FkMDQ2LWY4ZGYtNDc0ZC04NTQzLTU0ZDRjODA4MDFjZSIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiL01MaG12MlJIMnJ0TkF0RUdZTlpOZXFmeSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_h2_grpc_direct_vless hell.inbarayeman.xyz 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=grpc&alpn=h2&path=BbhV4BIh7AoBnkUIobhlQ&host=hell.inbarayeman.xyz&serviceName=BbhV4BIh7AoBnkUIobhlQ&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_h2_grpc_direct_vless
+
+# tls_h2_grpc_direct_trojan hell.inbarayeman.xyz 
+trojan://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=grpc&alpn=h2&path=Xsd4fKkSGwop10BoBnkUIobhlQ&host=hell.inbarayeman.xyz&serviceName=Xsd4fKkSGwop10BoBnkUIobhlQ&mode=gun&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_h2_grpc_direct_trojan
+
+# tls_h2_grpc_direct_vmess hell.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaGVsbC5pbmJhcmF5ZW1hbi54eXpfdGxzX2gyX2dycGNfZGlyZWN0X3ZtZXNzIiwgImFkZCI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJwb3J0IjogNDQzLCAiaWQiOiAiY2YzYWQwNDYtZjhkZi00NzRkLTg1NDMtNTRkNGM4MDgwMWNlIiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogImdycGMiLCAidHlwZSI6ICJndW4iLCAiaG9zdCI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiTUxobXYyUkgycnRvQm5rVUlvYmhsUSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_h2_shadowtls_direct_ss hell.inbarayeman.xyz 
+ss://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=shadowtls&alpn=h2&host=hell.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_h2_shadowtls_direct_ss
+
+# tls_XTLS_direct_vless hell.inbarayeman.xyz 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=tcp&alpn=http/1.1&host=hell.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#hell.inbarayeman.xyz_tls_XTLS_direct_vless
+
+# tls_WS_direct_vless hell.inbarayeman.xyz 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=ws&alpn=http/1.1&path=/BbhV4BIh7ANAtEGYNZNeqfy&host=hell.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_WS_direct_vless
+
+# tls_WS_direct_trojan hell.inbarayeman.xyz 
+trojan://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=ws&alpn=http/1.1&path=/Xsd4fKkSGwop10BNAtEGYNZNeqfy&host=hell.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_WS_direct_trojan
+
+# tls_WS_direct_vmess hell.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaGVsbC5pbmJhcmF5ZW1hbi54eXpfdGxzX1dTX2RpcmVjdF92bWVzcyIsICJhZGQiOiAiaGVsbC5pbmJhcmF5ZW1hbi54eXoiLCAicG9ydCI6IDQ0MywgImlkIjogImNmM2FkMDQ2LWY4ZGYtNDc0ZC04NTQzLTU0ZDRjODA4MDFjZSIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiL01MaG12MlJIMnJ0TkF0RUdZTlpOZXFmeSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_grpc_direct_vless hell.inbarayeman.xyz 
+vless://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=grpc&alpn=http/1.1&path=BbhV4BIh7AoBnkUIobhlQ&host=hell.inbarayeman.xyz&serviceName=BbhV4BIh7AoBnkUIobhlQ&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_grpc_direct_vless
+
+# tls_grpc_direct_trojan hell.inbarayeman.xyz 
+trojan://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=grpc&alpn=http/1.1&path=Xsd4fKkSGwop10BoBnkUIobhlQ&host=hell.inbarayeman.xyz&serviceName=Xsd4fKkSGwop10BoBnkUIobhlQ&mode=gun&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_grpc_direct_trojan
+
+# tls_grpc_direct_vmess hell.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiaGVsbC5pbmJhcmF5ZW1hbi54eXpfdGxzX2dycGNfZGlyZWN0X3ZtZXNzIiwgImFkZCI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJwb3J0IjogNDQzLCAiaWQiOiAiY2YzYWQwNDYtZjhkZi00NzRkLTg1NDMtNTRkNGM4MDgwMWNlIiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogImdycGMiLCAidHlwZSI6ICJndW4iLCAiaG9zdCI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiTUxobXYyUkgycnRvQm5rVUlvYmhsUSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJoZWxsLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_shadowtls_direct_ss hell.inbarayeman.xyz 
+ss://cf3ad046-f8df-474d-8543-54d4c80801ce@hell.inbarayeman.xyz:443?hiddify=1&sni=hell.inbarayeman.xyz&type=shadowtls&alpn=http/1.1&host=hell.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#hell.inbarayeman.xyz_tls_shadowtls_direct_ss
+
+
+
+
+####################################
 ##  reality  kolektiva.social  http:80
 ####################################
 ####################################
@@ -295,6 +356,68 @@ vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=home
 
 # reality_XTLS_direct_vless monicarettig.com 
 vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=monicarettig.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#monicarettig.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  old_xtls_direct  mumb.inbarayeman.xyz  http:80
+####################################
+
+# http_WS_direct_vmess mumb.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXpfaHR0cF9XU19kaXJlY3Rfdm1lc3MiLCAiYWRkIjogIm11bWIuaW5iYXJheWVtYW4ueHl6IiwgInBvcnQiOiA4MCwgImlkIjogIjM2YmU0NGI1LTQzMDYtNDMxZi04MjBlLTJmODYzNmVkYzIzNyIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiL0lzcFFPeU9rb2d0WnJ3TXcxZ0NRem9ZMjUiLCAidGxzIjogIiIsICJzbmkiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCAiZnAiOiAiY2hyb21lIn0=
+####################################
+##  old_xtls_direct  mumb.inbarayeman.xyz  tls:443
+####################################
+
+# tls_h2_XTLS_direct_vless mumb.inbarayeman.xyz 
+vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=tcp&alpn=h2&host=mumb.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#mumb.inbarayeman.xyz_tls_h2_XTLS_direct_vless
+
+# tls_h2_WS_direct_vless mumb.inbarayeman.xyz 
+vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=ws&alpn=h2&path=/TfzuKpYMw1gCQzoY25&host=mumb.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_h2_WS_direct_vless
+
+# tls_h2_WS_direct_trojan mumb.inbarayeman.xyz 
+trojan://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=ws&alpn=h2&path=/BCR46ONiDQ0ZVVMw1gCQzoY25&host=mumb.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_h2_WS_direct_trojan
+
+# tls_h2_WS_direct_vmess mumb.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXpfdGxzX2gyX1dTX2RpcmVjdF92bWVzcyIsICJhZGQiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCAicG9ydCI6IDQ0MywgImlkIjogIjM2YmU0NGI1LTQzMDYtNDMxZi04MjBlLTJmODYzNmVkYzIzNyIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiL0lzcFFPeU9rb2d0WnJ3TXcxZ0NRem9ZMjUiLCAidGxzIjogInRscyIsICJzbmkiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCAiZnAiOiAiY2hyb21lIn0=
+
+# tls_h2_grpc_direct_vless mumb.inbarayeman.xyz 
+vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=grpc&alpn=h2&path=TfzuKpYOrIR2iXdHId4Kf&host=mumb.inbarayeman.xyz&serviceName=TfzuKpYOrIR2iXdHId4Kf&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_h2_grpc_direct_vless
+
+# tls_h2_grpc_direct_trojan mumb.inbarayeman.xyz 
+trojan://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=grpc&alpn=h2&path=BCR46ONiDQ0ZVVOrIR2iXdHId4Kf&host=mumb.inbarayeman.xyz&serviceName=BCR46ONiDQ0ZVVOrIR2iXdHId4Kf&mode=gun&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_h2_grpc_direct_trojan
+
+# tls_h2_grpc_direct_vmess mumb.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXpfdGxzX2gyX2dycGNfZGlyZWN0X3ZtZXNzIiwgImFkZCI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMzZiZTQ0YjUtNDMwNi00MzFmLTgyMGUtMmY4NjM2ZWRjMjM3IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogImdycGMiLCAidHlwZSI6ICJndW4iLCAiaG9zdCI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiSXNwUU95T2tvZ3RacndPcklSMmlYZEhJZDRLZiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_h2_shadowtls_direct_ss mumb.inbarayeman.xyz 
+ss://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=shadowtls&alpn=h2&host=mumb.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_h2_shadowtls_direct_ss
+
+# tls_XTLS_direct_vless mumb.inbarayeman.xyz 
+vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=tcp&alpn=http/1.1&host=mumb.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#mumb.inbarayeman.xyz_tls_XTLS_direct_vless
+
+# tls_WS_direct_vless mumb.inbarayeman.xyz 
+vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=ws&alpn=http/1.1&path=/TfzuKpYMw1gCQzoY25&host=mumb.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_WS_direct_vless
+
+# tls_WS_direct_trojan mumb.inbarayeman.xyz 
+trojan://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=ws&alpn=http/1.1&path=/BCR46ONiDQ0ZVVMw1gCQzoY25&host=mumb.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_WS_direct_trojan
+
+# tls_WS_direct_vmess mumb.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXpfdGxzX1dTX2RpcmVjdF92bWVzcyIsICJhZGQiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCAicG9ydCI6IDQ0MywgImlkIjogIjM2YmU0NGI1LTQzMDYtNDMxZi04MjBlLTJmODYzNmVkYzIzNyIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiL0lzcFFPeU9rb2d0WnJ3TXcxZ0NRem9ZMjUiLCAidGxzIjogInRscyIsICJzbmkiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXoiLCAiZnAiOiAiY2hyb21lIn0=
+
+# tls_grpc_direct_vless mumb.inbarayeman.xyz 
+vless://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=grpc&alpn=http/1.1&path=TfzuKpYOrIR2iXdHId4Kf&host=mumb.inbarayeman.xyz&serviceName=TfzuKpYOrIR2iXdHId4Kf&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_grpc_direct_vless
+
+# tls_grpc_direct_trojan mumb.inbarayeman.xyz 
+trojan://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=grpc&alpn=http/1.1&path=BCR46ONiDQ0ZVVOrIR2iXdHId4Kf&host=mumb.inbarayeman.xyz&serviceName=BCR46ONiDQ0ZVVOrIR2iXdHId4Kf&mode=gun&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_grpc_direct_trojan
+
+# tls_grpc_direct_vmess mumb.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAibXVtYi5pbmJhcmF5ZW1hbi54eXpfdGxzX2dycGNfZGlyZWN0X3ZtZXNzIiwgImFkZCI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMzZiZTQ0YjUtNDMwNi00MzFmLTgyMGUtMmY4NjM2ZWRjMjM3IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogImdycGMiLCAidHlwZSI6ICJndW4iLCAiaG9zdCI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiSXNwUU95T2tvZ3RacndPcklSMmlYZEhJZDRLZiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJtdW1iLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_shadowtls_direct_ss mumb.inbarayeman.xyz 
+ss://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni=mumb.inbarayeman.xyz&type=shadowtls&alpn=http/1.1&host=mumb.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#mumb.inbarayeman.xyz_tls_shadowtls_direct_ss
+
 
 
 
