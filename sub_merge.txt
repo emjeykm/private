@@ -245,6 +245,7 @@ ss://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni
 
 
 
+
 ####################################
 ##  reality  www.kucoin.com  http:80
 ####################################
@@ -253,19 +254,19 @@ ss://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni
 ####################################
 
 # reality_XTLS_direct_vless www.kucoin.com 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=www.kucoin.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.kucoin.com_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=www.kucoin.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.kucoin.com_reality_XTLS_direct_vless
 
 
 
 
 ####################################
-##  direct  duss.inbarayeman.xyz  http:80
+##  old_xtls_direct  duss.inbarayeman.xyz  http:80
 ####################################
 
 # http_WS_direct_vmess duss.inbarayeman.xyz 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXpfaHR0cF9XU19kaXJlY3Rfdm1lc3MiLCAiYWRkIjogImR1c3MuaW5iYXJheWVtYW4ueHl6IiwgInBvcnQiOiA4MCwgImlkIjogIjI5YmNmNjc5LWEyZjctNDhjZC1hMDAxLTU3MGNiMzI2MjYwNCIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiLzZjNmpGNHlQSGtxaHFOamoiLCAidGxzIjogIiIsICJzbmkiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXoiLCAiZnAiOiAiY2hyb21lIn0=
 ####################################
-##  direct  duss.inbarayeman.xyz  tls:443
+##  old_xtls_direct  duss.inbarayeman.xyz  tls:443
 ####################################
 
 # tls_h2_XTLS_direct_vless duss.inbarayeman.xyz 
@@ -321,7 +322,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXpfdGxzX2dycGNfZGlyZWN0
 ####################################
 
 # reality_XTLS_direct_vless flutter.dev 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=flutter.dev&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#flutter.dev_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=flutter.dev&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#flutter.dev_reality_XTLS_direct_vless
 
 
 
@@ -334,7 +335,7 @@ vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&
 ####################################
 
 # reality_XTLS_direct_vless www.speedtest.net 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=www.speedtest.net&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.speedtest.net_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=www.speedtest.net&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.speedtest.net_reality_XTLS_direct_vless
 
 
 
@@ -347,7 +348,7 @@ vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&
 ####################################
 
 # reality_XTLS_direct_vless account.zula.ir 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=account.zula.ir&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#account.zula.ir_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=account.zula.ir&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#account.zula.ir_reality_XTLS_direct_vless
 
 
 
@@ -360,7 +361,7 @@ vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&
 ####################################
 
 # reality_XTLS_direct_vless ftp.debian.org 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=ftp.debian.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#ftp.debian.org_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=ftp.debian.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#ftp.debian.org_reality_XTLS_direct_vless
 
 
 
@@ -373,7 +374,7 @@ vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&
 ####################################
 
 # reality_XTLS_direct_vless zula.ir 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=zula.ir&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#zula.ir_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=zula.ir&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#zula.ir_reality_XTLS_direct_vless
 
 
 
@@ -386,7 +387,7 @@ vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&
 ####################################
 
 # reality_XTLS_direct_vless discord.com 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=discord.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#discord.com_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=discord.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#discord.com_reality_XTLS_direct_vless
 
 
 
@@ -399,7 +400,7 @@ vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&
 ####################################
 
 # reality_XTLS_direct_vless www.datadoghq.com 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=www.datadoghq.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.datadoghq.com_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=www.datadoghq.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.datadoghq.com_reality_XTLS_direct_vless
 
 
 
@@ -412,7 +413,7 @@ vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&
 ####################################
 
 # reality_XTLS_direct_vless coinmarketcap.com 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=coinmarketcap.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#coinmarketcap.com_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=coinmarketcap.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#coinmarketcap.com_reality_XTLS_direct_vless
 
 
 
@@ -425,7 +426,7 @@ vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&
 ####################################
 
 # reality_XTLS_direct_vless eset.com 
-vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=eset.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#eset.com_reality_XTLS_direct_vless
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@98.142.253.249:443?hiddify=1&sni=eset.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#eset.com_reality_XTLS_direct_vless
 
 
 
