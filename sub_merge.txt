@@ -245,3 +245,188 @@ ss://36be44b5-4306-431f-820e-2f8636edc237@mumb.inbarayeman.xyz:443?hiddify=1&sni
 
 
 
+####################################
+##  reality  www.kucoin.com  http:80
+####################################
+####################################
+##  reality  www.kucoin.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless www.kucoin.com 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=www.kucoin.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.kucoin.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  direct  duss.inbarayeman.xyz  http:80
+####################################
+
+# http_WS_direct_vmess duss.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXpfaHR0cF9XU19kaXJlY3Rfdm1lc3MiLCAiYWRkIjogImR1c3MuaW5iYXJheWVtYW4ueHl6IiwgInBvcnQiOiA4MCwgImlkIjogIjI5YmNmNjc5LWEyZjctNDhjZC1hMDAxLTU3MGNiMzI2MjYwNCIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiLzZjNmpGNHlQSGtxaHFOamoiLCAidGxzIjogIiIsICJzbmkiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXoiLCAiZnAiOiAiY2hyb21lIn0=
+####################################
+##  direct  duss.inbarayeman.xyz  tls:443
+####################################
+
+# tls_h2_XTLS_direct_vless duss.inbarayeman.xyz 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=tcp&alpn=h2&host=duss.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#duss.inbarayeman.xyz_tls_h2_XTLS_direct_vless
+
+# tls_h2_WS_direct_vless duss.inbarayeman.xyz 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=ws&alpn=h2&path=/PHeIySNRg4cnGPHkqhqNjj&host=duss.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&security=tls#duss.inbarayeman.xyz_tls_h2_WS_direct_vless
+
+# tls_h2_WS_direct_trojan duss.inbarayeman.xyz 
+trojan://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=ws&alpn=h2&path=/fK6dSaHdPHkqhqNjj&host=duss.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#duss.inbarayeman.xyz_tls_h2_WS_direct_trojan
+
+# tls_h2_WS_direct_vmess duss.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXpfdGxzX2gyX1dTX2RpcmVjdF92bWVzcyIsICJhZGQiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXoiLCAicG9ydCI6IDQ0MywgImlkIjogIjI5YmNmNjc5LWEyZjctNDhjZC1hMDAxLTU3MGNiMzI2MjYwNCIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiLzZjNmpGNHlQSGtxaHFOamoiLCAidGxzIjogInRscyIsICJzbmkiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXoiLCAiZnAiOiAiY2hyb21lIn0=
+
+# tls_h2_grpc_direct_vless duss.inbarayeman.xyz 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=grpc&alpn=h2&path=PHeIySNRg4cnGFT3uS77DKJrpLSh&host=duss.inbarayeman.xyz&serviceName=PHeIySNRg4cnGFT3uS77DKJrpLSh&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#duss.inbarayeman.xyz_tls_h2_grpc_direct_vless
+
+# tls_h2_grpc_direct_trojan duss.inbarayeman.xyz 
+trojan://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=grpc&alpn=h2&path=fK6dSaHdFT3uS77DKJrpLSh&host=duss.inbarayeman.xyz&serviceName=fK6dSaHdFT3uS77DKJrpLSh&mode=gun&fp=chrome&headerType=None&security=tls#duss.inbarayeman.xyz_tls_h2_grpc_direct_trojan
+
+# tls_h2_grpc_direct_vmess duss.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXpfdGxzX2gyX2dycGNfZGlyZWN0X3ZtZXNzIiwgImFkZCI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMjliY2Y2NzktYTJmNy00OGNkLWEwMDEtNTcwY2IzMjYyNjA0IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogImdycGMiLCAidHlwZSI6ICJndW4iLCAiaG9zdCI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImgyIiwgInBhdGgiOiAiNmM2akY0eUZUM3VTNzdES0pycExTaCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+
+# tls_XTLS_direct_vless duss.inbarayeman.xyz 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=tcp&alpn=http/1.1&host=duss.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#duss.inbarayeman.xyz_tls_XTLS_direct_vless
+
+# tls_WS_direct_vless duss.inbarayeman.xyz 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=ws&alpn=http/1.1&path=/PHeIySNRg4cnGPHkqhqNjj&host=duss.inbarayeman.xyz&encryption=none&fp=chrome&headerType=None&security=tls#duss.inbarayeman.xyz_tls_WS_direct_vless
+
+# tls_WS_direct_trojan duss.inbarayeman.xyz 
+trojan://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=ws&alpn=http/1.1&path=/fK6dSaHdPHkqhqNjj&host=duss.inbarayeman.xyz&fp=chrome&headerType=None&security=tls#duss.inbarayeman.xyz_tls_WS_direct_trojan
+
+# tls_WS_direct_vmess duss.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXpfdGxzX1dTX2RpcmVjdF92bWVzcyIsICJhZGQiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXoiLCAicG9ydCI6IDQ0MywgImlkIjogIjI5YmNmNjc5LWEyZjctNDhjZC1hMDAxLTU3MGNiMzI2MjYwNCIsICJhaWQiOiAwLCAic2N5IjogImNoYWNoYTIwLXBvbHkxMzA1IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiLzZjNmpGNHlQSGtxaHFOamoiLCAidGxzIjogInRscyIsICJzbmkiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXoiLCAiZnAiOiAiY2hyb21lIn0=
+
+# tls_grpc_direct_vless duss.inbarayeman.xyz 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=grpc&alpn=http/1.1&path=PHeIySNRg4cnGFT3uS77DKJrpLSh&host=duss.inbarayeman.xyz&serviceName=PHeIySNRg4cnGFT3uS77DKJrpLSh&mode=gun&encryption=none&fp=chrome&headerType=None&security=tls#duss.inbarayeman.xyz_tls_grpc_direct_vless
+
+# tls_grpc_direct_trojan duss.inbarayeman.xyz 
+trojan://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=duss.inbarayeman.xyz&type=grpc&alpn=http/1.1&path=fK6dSaHdFT3uS77DKJrpLSh&host=duss.inbarayeman.xyz&serviceName=fK6dSaHdFT3uS77DKJrpLSh&mode=gun&fp=chrome&headerType=None&security=tls#duss.inbarayeman.xyz_tls_grpc_direct_trojan
+
+# tls_grpc_direct_vmess duss.inbarayeman.xyz 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZHVzcy5pbmJhcmF5ZW1hbi54eXpfdGxzX2dycGNfZGlyZWN0X3ZtZXNzIiwgImFkZCI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMjliY2Y2NzktYTJmNy00OGNkLWEwMDEtNTcwY2IzMjYyNjA0IiwgImFpZCI6IDAsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAibmV0IjogImdycGMiLCAidHlwZSI6ICJndW4iLCAiaG9zdCI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJhbHBuIjogImh0dHAvMS4xIiwgInBhdGgiOiAiNmM2akY0eUZUM3VTNzdES0pycExTaCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJkdXNzLmluYmFyYXllbWFuLnh5eiIsICJmcCI6ICJjaHJvbWUifQ==
+
+
+
+
+####################################
+##  reality  flutter.dev  http:80
+####################################
+####################################
+##  reality  flutter.dev  tls:443
+####################################
+
+# reality_XTLS_direct_vless flutter.dev 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=flutter.dev&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#flutter.dev_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  www.speedtest.net  http:80
+####################################
+####################################
+##  reality  www.speedtest.net  tls:443
+####################################
+
+# reality_XTLS_direct_vless www.speedtest.net 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=www.speedtest.net&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.speedtest.net_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  account.zula.ir  http:80
+####################################
+####################################
+##  reality  account.zula.ir  tls:443
+####################################
+
+# reality_XTLS_direct_vless account.zula.ir 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=account.zula.ir&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#account.zula.ir_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  ftp.debian.org  http:80
+####################################
+####################################
+##  reality  ftp.debian.org  tls:443
+####################################
+
+# reality_XTLS_direct_vless ftp.debian.org 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=ftp.debian.org&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#ftp.debian.org_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  zula.ir  http:80
+####################################
+####################################
+##  reality  zula.ir  tls:443
+####################################
+
+# reality_XTLS_direct_vless zula.ir 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=zula.ir&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#zula.ir_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  discord.com  http:80
+####################################
+####################################
+##  reality  discord.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless discord.com 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=discord.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#discord.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  www.datadoghq.com  http:80
+####################################
+####################################
+##  reality  www.datadoghq.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless www.datadoghq.com 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=www.datadoghq.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#www.datadoghq.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  coinmarketcap.com  http:80
+####################################
+####################################
+##  reality  coinmarketcap.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless coinmarketcap.com 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=coinmarketcap.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#coinmarketcap.com_reality_XTLS_direct_vless
+
+
+
+
+####################################
+##  reality  eset.com  http:80
+####################################
+####################################
+##  reality  eset.com  tls:443
+####################################
+
+# reality_XTLS_direct_vless eset.com 
+vless://29bcf679-a2f7-48cd-a001-570cb3262604@duss.inbarayeman.xyz:443?hiddify=1&sni=eset.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=vi-MyD1rpxOTVsN3Fg7uhXowALmfAKfcIlUMN1mHdV4&sid=0d0b1db5#eset.com_reality_XTLS_direct_vless
+
+
+
+
