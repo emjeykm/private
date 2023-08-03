@@ -15,6 +15,7 @@ vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&s
 vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=ovhcloud.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#ovhcloud.com_reality_XTLS_direct_vless
 vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=homeblogs.space&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#homeblogs.space_reality_XTLS_direct_vless
 vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=monicarettig.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#monicarettig.com_reality_XTLS_direct_vless
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=zula.ir&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#zula.ir_reality_XTLS_direct_vless
 
 
 
