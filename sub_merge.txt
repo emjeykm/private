@@ -9,7 +9,7 @@ vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&s
 vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=datadoghq.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#datadoghq.com_reality_XTLS_direct_vless
 vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#speed.cloudflare.com_reality_XTLS_direct_vless
 vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=nachtzug.net&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#nachtzug.net_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?hiddify=1&sni=www.theverge.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5#www.theverge.com_reality_XTLS_direct_vless
+vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.theverge.com&alpn=h2&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&headerType=None#www.theverge.com_reality_XTLS_direct_vless
 
 
 
@@ -22,7 +22,7 @@ vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality
 vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=datadoghq.com&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#datadoghq.com_reality_XTLS_direct_vless
 vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=coinmarketcap.com&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#coinmarketcap.com_reality_XTLS_direct_vless
 vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#speed.cloudflare.com_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?hiddify=1&sni=www.theverge.com&type=tcp&alpn=h2&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e#www.theverge.com_reality_XTLS_direct_vless
+vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.theverge.com&alpn=h2&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&headerType=None#www.theverge.com_reality_XTLS_direct_vless
 
 
 
