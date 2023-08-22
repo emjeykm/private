@@ -1,28 +1,5 @@
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=substack.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#substack.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=ispsystem.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#ispsystem.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=cdn.accuweather.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#cdn.accuweather.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#ftp.debian.org_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#www.speedtest.net_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=coinmarketcap.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#coinmarketcap.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=soup.io&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#soup.io_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=zula.ir&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#zula.ir_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=datadoghq.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#datadoghq.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#speed.cloudflare.com_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?security=reality&sni=nachtzug.net&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&flow=xtls-rprx-vision&encryption=none#nachtzug.net_reality_XTLS_direct_vless
-vless://36be44b5-4306-431f-820e-2f8636edc237@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.theverge.com&alpn=h2&fp=chrome&pbk=uO2joYUOseHcFLexWgmlLTIIH4UoIa5S07FBEiD6bBU&sid=5fda7453b93040b5&type=tcp&headerType=None#www.theverge.com_reality_XTLS_direct_vless
-
-
-
-
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=lbry.org&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#lbry.org_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=flutter.dev&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#flutter.dev_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#www.speedtest.net_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=zula.ir&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#zula.ir_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#ftp.debian.org_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=datadoghq.com&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#datadoghq.com_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=coinmarketcap.com&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#coinmarketcap.com_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&flow=xtls-rprx-vision&encryption=none#speed.cloudflare.com_reality_XTLS_direct_vless
-vless://68a15dc4-67ff-418a-b9e8-f57286c9e20f@98.142.253.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.theverge.com&alpn=h2&fp=chrome&pbk=024qJqdF40gWidP6DZt4JT5T4S4pXJFe6P93KvCwQB0&sid=85e96e&type=tcp&headerType=None#www.theverge.com_reality_XTLS_direct_vless
+vless://478bb7c9-2c56-411a-a000-2103d4855041@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=ptb4HdFIrLaP19KlgN78swcGv3wJMeGJy9xsA3qmlUM&sid=a12d75daf0afe67e&type=tcp&headerType=none#Mumbai-Reality
+vless://df47dfc3-85b5-4db3-9edd-af18ea7b598d@98.142.253.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=20q4dtOWIaXQhQZUC_k6TpfiMaB7vWa3YXQ_JFEE7SE&sid=6fbef3b71f1b2201&type=tcp&headerType=none#Dusseldorf-Reality
 
 
 
