@@ -1,4 +1,4 @@
-vless://478bb7c9-2c56-411a-a000-2103d4855041@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=ptb4HdFIrLaP19KlgN78swcGv3wJMeGJy9xsA3qmlUM&sid=a12d75daf0afe67e&type=tcp&headerType=none#Mumbai-Reality
+vless://5876130a-22cf-4b2e-acd4-9a0f75a37240@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=cdn.accuweather.com&fp=chrome&pbk=t90gWcRE7gcjeTDrGKGQueZMRqmv056c_fAedvvgCRw&sid=986caedc&spx=%2F&type=tcp&headerType=none#Mumbai-Reality
 vless://df47dfc3-85b5-4db3-9edd-af18ea7b598d@98.142.253.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=20q4dtOWIaXQhQZUC_k6TpfiMaB7vWa3YXQ_JFEE7SE&sid=6fbef3b71f1b2201&type=tcp&headerType=none#Dusseldorf-Reality
 
 
