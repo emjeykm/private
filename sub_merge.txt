@@ -1,5 +1,5 @@
-vless://5876130a-22cf-4b2e-acd4-9a0f75a37240@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision-udp443&security=reality&sni=cdn.accuweather.com&fp=chrome&pbk=t90gWcRE7gcjeTDrGKGQueZMRqmv056c_fAedvvgCRw&sid=986caedc&spx=%2F&type=tcp&headerType=none#Mumbai-Reality
-vless://df47dfc3-85b5-4db3-9edd-af18ea7b598d@98.142.253.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=20q4dtOWIaXQhQZUC_k6TpfiMaB7vWa3YXQ_JFEE7SE&sid=6fbef3b71f1b2201&type=tcp&headerType=none#Dusseldorf-Reality
+vless://5f6b3baa-ac3d-4f29-95ac-b7a41538f7ee@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&fp=chrome&pbk=2xMQSSv4kyDeU_YrgikrKMT5-EFCkL_-UukewR9iKUU&sid=3d856eb1&spx=%2F&type=tcp&headerType=none#Mumbai-Reality
+vless://a8ecc7fa-96e4-4428-a4a6-c6929b3999f9@98.142.253.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=lSQ_EcHVtgMeIcmejshQSY1J046S6mKhM-9lPsIMUyA&sid=0a519543&spx=%2F&type=tcp&headerType=none#Dusseldorf-Reality
 
 
 
