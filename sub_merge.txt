@@ -1,5 +1,5 @@
-vless://5f6b3baa-ac3d-4f29-95ac-b7a41538f7ee@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&fp=chrome&pbk=2xMQSSv4kyDeU_YrgikrKMT5-EFCkL_-UukewR9iKUU&sid=3d856eb1&spx=%2F&type=tcp&headerType=none#Mumbai-Reality
-vless://a8ecc7fa-96e4-4428-a4a6-c6929b3999f9@98.142.253.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.accuweather.com&fp=firefox&pbk=lSQ_EcHVtgMeIcmejshQSY1J046S6mKhM-9lPsIMUyA&sid=0a519543&spx=%2F&type=tcp&headerType=none#Dusseldorf-Reality
+vless://5f6b3baa-ac3d-4f29-95ac-b7a41538f7ee@148.113.5.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speedtest.net&fp=chrome&pbk=2xMQSSv4kyDeU_YrgikrKMT5-EFCkL_-UukewR9iKUU&sid=3d856eb1&spx=%2F&type=tcp&headerType=none#Mumbai-Reality
+vless://a8ecc7fa-96e4-4428-a4a6-c6929b3999f9@98.142.253.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speedtest.net&fp=firefox&pbk=lSQ_EcHVtgMeIcmejshQSY1J046S6mKhM-9lPsIMUyA&sid=0a519543&spx=%2F&type=tcp&headerType=none#Dusseldorf-Reality
 
 
 
