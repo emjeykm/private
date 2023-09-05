@@ -24,3 +24,7 @@ tuic://32771dec-9028-41a3-bdd1-8033f3a8b1ec:m0651166@[2a01:8640:11:1::3484:de54]
 
 hysteria://98.142.253.249:20416?protocol=udp&insecure=1&upmbps=100&downmbps=100&obfs=xplus&obfsParam=m0651166#hysteria
 hysteria://[2a01:8640:11:1::3484:de54]:20416?protocol=udp&insecure=1&upmbps=100&downmbps=100&obfs=xplus&obfsParam=m0651166#hysteria
+
+
+hysteria2://m0651166@98.142.253.249:20417/?insecure=1&obfs=salamander&obfs-password=m0651166&sni=google.com#HysteriaV2
+hysteria2://m0651166@[2a01:8640:11:1::3484:de54]:20417/?insecure=1&obfs=salamander&obfs-password=m0651166&sni=google.com#HysteriaV2
