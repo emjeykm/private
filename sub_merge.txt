@@ -18,14 +18,13 @@ vless://02faed4d-2978-429c-88a2-cc6890294805@time.cloudflare.com:2087?encryption
 vless://02faed4d-2978-429c-88a2-cc6890294805@time.cloudflare.com:2096?encryption=none&security=tls&sni=hello-world-hidden-haze-7d65.reneja.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=hello-world-hidden-haze-7d65.reneja.workers.dev&path=%2F%3Fed%3D2048#hello-world-hidden-haze-7d65.reneja.workers.dev
 
 
-tuic://32771dec-9028-41a3-bdd1-8033f3a8b1ec:m0651166@98.142.253.249:20415/?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#Tuic
-tuic://32771dec-9028-41a3-bdd1-8033f3a8b1ec:m0651166@[2a01:8640:11:1::3484:de54]:20415/?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#Tuic
+tuic://32771dec-9028-41a3-bdd1-8033f3a8b1ec:m0651166@98.142.253.249:20415/?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#Tuic IPv4
+tuic://32771dec-9028-41a3-bdd1-8033f3a8b1ec:m0651166@[2a01:8640:11:1::3484:de54]:20415/?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#Tuic IPv6
 
 
-hysteria://98.142.253.249:20416?protocol=udp&insecure=1&upmbps=100&downmbps=100&obfs=xplus&obfsParam=m0651166#hysteria
-hysteria://[2a01:8640:11:1::3484:de54]:20416?protocol=udp&insecure=1&upmbps=100&downmbps=100&obfs=xplus&obfsParam=m0651166#hysteria
+hysteria://98.142.253.249:20416?protocol=udp&insecure=1&upmbps=100&downmbps=100&obfs=xplus&obfsParam=m0651166#hysteria IPv4
+hysteria://[2a01:8640:11:1::3484:de54]:20416?protocol=udp&insecure=1&upmbps=100&downmbps=100&obfs=xplus&obfsParam=m0651166#hysteria IPv6
 
 
-
-hysteria2://m0651166@98.142.253.249:20417/?insecure=1&obfs=salamander&obfs-password=m0651166&sni=google.com#HysteriaV2
-hysteria2://m0651166@[2a01:8640:11:1::3484:de54]:20417/?insecure=1&obfs=salamander&obfs-password=m0651166&sni=google.com#HysteriaV2
+hysteria2://@98.142.253.249:2041/?insecure=1&obfs=salamander&obfs-password=&sni=google.com#HysteriaV2 IPv4
+hysteria2://@[2a01:8640:11:1::3484:de54]:2041/?insecure=1&obfs=salamander&obfs-password=&sni=google.com#HysteriaV2 IPv6
