@@ -1,4 +1,4 @@
-vless://cc5b9cd7-8018-4663-ad1b-e24fff09547c@5.182.87.161:433?type=tcp&security=reality&fp=firefox&pbk=01QlEF6SCs5IzWN9BqDAtX3yz2OTYp6RDOlvQObyqSA&sni=speedtest.net&sid=ebd756cf&spx=%2F#Falkenstein-Reality
+vless://898a90ba-c4ec-4a19-8fb4-078ae85f2d86@5.182.87.161:443?type=tcp&security=reality&fp=chrome&pbk=CJNttj9L_DutMlFU3Pd0PUaoigM8_Fs7ldxOx-Wt1Dw&sni=www.speedtest.net&sid=cc60d6f5&spx=%2F#Falkenstein-Reality
 
 
 
