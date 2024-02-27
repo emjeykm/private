@@ -1,5 +1,3 @@
-trojan://1@23.13--2024.02.27.time:2313?sni=fake_ip_for_sub_link&security=tls#%E2%8F%B30.0/3.0TB
-#Hiddify auto ip: 79.141.175.248 SE 59711 unknown ERROR fullname=HZ Hosting Ltd default:ast
 vless://25918296-26f4-4843-b84c-e995ecf78ca0@germ.celebjared.pk:443?hiddify=1&sni=www.startmail.com&type=tcp&alpn=http/1.1&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=ZPXKW1FsXqfnnc8zMkc6gRb1N1DufTaViepWs3gb9wc&sid=14866607ef754da8#www.startmail.com%20reality%20XTLS%20direct%20vless
 vless://25918296-26f4-4843-b84c-e995ecf78ca0@germ.celebjared.pk:443?hiddify=1&sni=germ.celebjared.pk&type=tcp&alpn=h2&host=germ.celebjared.pk&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=tls#germ.celebjared.pk%20tls_h2%20XTLS%20direct%20vless
 vless://25918296-26f4-4843-b84c-e995ecf78ca0@germ.celebjared.pk:443?hiddify=1&sni=germ.celebjared.pk&type=ws&alpn=h2&path=/XdQX6hDPMpKolaY5zhLgKOIXGa&host=germ.celebjared.pk&encryption=none&fp=chrome&headerType=None&security=tls#germ.celebjared.pk%20tls_h2%20WS%20direct%20vless
