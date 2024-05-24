@@ -100,7 +100,6 @@
       "users": []
     }
   ],
-//
   "outbounds": [
     {
       "tag": "proxy",
@@ -108,16 +107,16 @@
       "outbounds": [
         "auto",
         "direct",
-        "SV1", // sv1
-        "SV2" // sv2
+        "SV1",
+        "SV2"
       ]
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "SV1", // sv1
-        "SV2" // sv2
+        "SV1",
+        "SV2"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -136,34 +135,34 @@
       "tag": "block"
     },
     {
-      "tag": "SV1", // sv1
+      "tag": "SV1",
       "type": "vless",
-      "server": "104.26.3.36", //优选ip或 域名
+      "server": "104.26.3.36",
       "server_port":80,
-      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5", //修改uuid
+      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev" //host
+          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "SV2", //sv2
+      "tag": "SV2",
       "type": "vless",
-      "server": "172.67.75.172",//
+      "server": "172.67.75.172",
       "server_port": 80,
-      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5", //
+      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host":  "https://hello-world-empty-rice-fb46.reneja.workers.dev" //
+          "Host":  "https://hello-world-empty-rice-fb46.reneja.workers.dev"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
