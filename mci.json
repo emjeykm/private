@@ -149,7 +149,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "   " //
+          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev" //
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
@@ -165,7 +165,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev/" //
+          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev" //
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
@@ -183,7 +183,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev/" //
+          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev" //
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
