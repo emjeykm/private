@@ -140,7 +140,7 @@
       "type": "vless",
       "server": "104.26.3.36", //优选ip或 域名
       "server_port":80,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4", //修改uuid
+      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5", //修改uuid
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
@@ -157,7 +157,7 @@
       "type": "vless",
       "server": "172.67.75.172",//
       "server_port": 80,
-      "uuid": "d342d11e-d424-4583-b36e-524ab1f0afa4", //
+      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5", //
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
