@@ -100,7 +100,6 @@
       "users": []
     }
   ],
-// outnound//
   "outbounds": [
     {
       "tag": "proxy",
@@ -108,9 +107,9 @@
       "outbounds": [
         "auto",
         "direct",
-        "SV1", //1
-        "SV2", //2
-        "SV3"  //3
+        "SV1",
+        "SV2",
+        "SV3" 
 
       ]
     },
@@ -118,9 +117,9 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "SV1", // 1
-        "SV2", // 2
-        "SV3"  // 3
+        "SV1",
+        "SV2",
+        "SV3" 
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -139,33 +138,33 @@
       "tag": "block"
     },
     {
-      "tag": "SV1", //first node
+      "tag": "SV1",
       "type": "vless",
-      "server": "104.27.207.92", //
+      "server": "104.27.207.92",
       "server_port": 8880,
-      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5", //
+      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev" //
+          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev"
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
       }
     },
     {
-      "tag": "SV2", //secondd node
+      "tag": "SV2",
       "type": "vless",
-      "server": "104.16.142.237", //优选ip或 域名
+      "server": "104.16.142.237",
       "server_port": 8880,
-      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5", //修改uuid
+      "uuid": "a57cd750-0c48-4b5f-9f43-82cac8de79b5",
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev" //
+          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
@@ -173,7 +172,7 @@
     },
 
     {
-      "tag": "SV3", //third node
+      "tag": "SV3",
       "type": "vless",
       "server": "104.26.7.89", 
       "server_port": 8880,
@@ -183,7 +182,7 @@
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev" //
+          "Host": "https://hello-world-empty-rice-fb46.reneja.workers.dev"
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
