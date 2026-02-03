@@ -1,3 +1,7 @@
+vless://01869c1c-87b0-4532-aaa6-06df5087b2ea@51.77.32.233:443?encryption=none{{CONFIG_REALITY}}flow=xtls-rprx-vision{{CONFIG_REALITY}}security=reality{{CONFIG_REALITY}}sni=www.microsoft.com{{CONFIG_REALITY}}fp=chrome{{CONFIG_REALITY}}pbk=yBy_yNQjVyFvpeihak2Bpzp4a2NfWTYvWXPrlViS6y0{{CONFIG_REALITY}}sid=25eb5843{{CONFIG_REALITY}}type=tcp#MoaV-Reality-emjey
+hysteria2://3ezdEQHYPSNyME9MqLpClVP@51.77.32.233:443?sni=moa.celeb-jared.pk#MoaV-Hysteria2-emjey
+trojan://3ezdEQHYPSNyME9MqLpClVP@51.77.32.233:8443?security=tls{{CONFIG_TROJAN}}sni=moa.celeb-jared.pk{{CONFIG_TROJAN}}type=tcp#MoaV-Trojan-emjey
+
 vless://a29a5cb2-572a-43a1-b0a5-8bd68932d864@dojman.global.ssl.fastly.net:443?security=tls&sni=dojman.global.ssl.fastly.net&alpn=http/1.1&allowInsecure=1&fp=chrome&type=ws&path=/containers/fi&host=dojman.global.ssl.fastly.net&packetEncoding=xudp&encryption=none#%E2%9A%A1Telegram%20=%20@SOSkeyNET
 trojan://telegram-id-privatevpns@63.180.135.146:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#%E2%9A%A1Telegram%20=%20@SOSkeyNET
 trojan://telegram-id-directvpn@63.180.135.146:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#%E2%9A%A1Telegram%20=%20@SOSkeyNET
