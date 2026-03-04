@@ -1,3 +1,4 @@
+vless://51ed1080-8708-4045-94c7-be593ba8e5d8@94.183.241.159:81?type=tcp&security=none#[🇹🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.182.150.196:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#%E2%9C%85@AR14N24b
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.150.196:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=/telegram-channel-vlessconfig&packetEncoding=xudp&encryption=none#%E2%9C%85@AR14N24b
 vless://13b63262-5da7-41d2-a943-27d4deed897b@212.80.21.220:10200?security=none&type=tcp&packetEncoding=xudp&encryption=none#%E2%9C%85@AR14N24b
